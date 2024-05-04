@@ -1,5 +1,7 @@
 # Telegram Birthday Bot
  A simple telegram bot that notifies users about birthdays based on calendar uploaded.
+
+ Access via https://t.me/bday_notification_bot
 # Commands
 ## /start
 - Introduction to this bot
