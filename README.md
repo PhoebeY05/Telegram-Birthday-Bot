@@ -1,7 +1,6 @@
 # Telegram Birthday Bot
  A simple telegram bot that notifies users about birthdays based on calendar uploaded.
 
- Access via https://t.me/bday_notification_bot
 # Commands
 ## /start
 - Introduction to this bot
@@ -22,3 +21,11 @@
 - If this command is used before /cal, an error message will be sent
 
 ![alt text](Images/list.png)
+
+# Usage
+- Run bot.py locally
+- Access via https://t.me/bday_notification_bot 
+
+# Possible Updates 
+- [ ] Return updated calendar file to user
+- [ ] Allow bot to remember chat history across sessions (Currently, bot.py has to be constantly running for bot to work)
