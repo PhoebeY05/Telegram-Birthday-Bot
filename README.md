@@ -2,6 +2,8 @@
 ## Description
 A simple telegram bot that notifies users about birthdays based on calendar uploaded.
 
+It is recommended to follow [usage instructions](#Usage) because this bot is being hosted on Render free plan which might not respond all the time times.
+
 ## Technologies Used
 - Python
 - Telegram API
@@ -26,7 +28,7 @@ A simple telegram bot that notifies users about birthdays based on calendar uplo
 
 ![alt text](Images/list.png)
 
-## Usage
+## Usage 
 - Run bot.py locally
 - Access via https://t.me/bday_notification_bot 
 
