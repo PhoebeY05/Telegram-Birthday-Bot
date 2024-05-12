@@ -1,4 +1,4 @@
-# Telegram Birthday Bot
+# Telegram Birthday Bot [![wakatime](https://wakatime.com/badge/user/018e18e4-ea39-46c6-b3da-dcbf7a45a702/project/b655e4b8-c8e9-4ef3-859a-0c13c2ffbc9c.svg)](https://wakatime.com/badge/user/018e18e4-ea39-46c6-b3da-dcbf7a45a702/project/b655e4b8-c8e9-4ef3-859a-0c13c2ffbc9c)
 ## Description
 A simple telegram bot that notifies users about birthdays based on calendar uploaded.
 
